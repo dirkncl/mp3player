@@ -5,7 +5,6 @@ function createList(toElement, a, b){
    var anchor = document.createElement("a");
    anchor.target = "_page";
    anchor.href = 'index.html?mp3='+b;
-   //anchor.href = 'https://'+base+'/mp3player/?mp3=' +b;
    anchor.innerHTML = a;
    anchor.style.color="black"
    anchor.style.textDecoration = "none"
