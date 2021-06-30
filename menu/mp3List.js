@@ -6,7 +6,7 @@ var listMp3 = {
   "Broery Pesulima - Senja Kelabu":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Broery Pesulima - Senja Kelabu.mp3",
   "Celline Dion - The Power of Love":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Celline Dion - The Power of Love.mp3",
   "Firehouse - Love of A Lifetime":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Firehouse - Love of a Lifetime.mp3",
-  "Franky & Jane - Di Ladang Bunga":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Franky & Jane - Di Ladang Bunga, Franky S.mp3",
+  "Franky & Jane - Di Ladang Bunga, Franky S":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Franky & Jane - Di Ladang Bunga, Franky S.mp3",
   "Tipe X - Kamu nggak Sendirian":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tipe X - Kamu nggak Sendirian.mp3",
   "Jimmy Harven - Where Are You Now":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Jimmy Harven - Where Are You Now.mp3",
   "Kenny Rogers - Evening Star":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Kenny Rogers - Evening Star.mp3",
