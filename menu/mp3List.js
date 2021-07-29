@@ -1,4 +1,5 @@
 var listMp3 = {
+  "Frida Wallin - When I Am Calling Your Name":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Frida Wallin - When I Am Calling Your Name.mp3",
   "ABThree - Nyanyian Cintamu":"https://dirkncl.github.io/RadioAndMusicPlayer/media/ABThree - Nyanyian Cintamu.mp3",
   "Rama Aiphama - Dinda Bestari":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Rama Aiphama - Dinda Bestari.mp3",
   "John Denver - Leaving On A Jet Plane":"https://dirkncl.github.io/RadioAndMusicPlayer/media/John Denver - Leaving On A Jet Plane.mp3",        
