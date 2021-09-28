@@ -1,4 +1,5 @@
 var listMp3 = {
+  "Jingle Bell Rock - Guitar_Instrument_Aip_Ba_Ta":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Jingle Bell Rock - Guitar_Instrument_Aip_Ba_Ta.mp3",
   "O Holy Night - Guitar_Instrument_Aip_Ba_Ta":"https://dirkncl.github.io/RadioAndMusicPlayer/media/O Holy Night - Guitar_Instrument_Aip_Ba_Ta.mp3",
   "Avenged Sevenfold - Dear God(orig)":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Avenged Sevenfold - Dear God(orig).mp3",
   "Avenged Sevenfold - Dear God":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Avenged Sevenfold - Dear God.mp3",
