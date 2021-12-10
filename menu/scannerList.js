@@ -18,7 +18,7 @@ var listMp3 = {
   "Trisha Yearwood - For Reason I've Forgotten":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Trisha Yearwood - For Reason I've Forgotten.mp3",
   "Victor Hutabarat - Terkenang Selalu":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Victor Hutabarat - Terkenang Selalu.mp3",
   "White Lion - You're All I Need":"https://dirkncl.github.io/RadioAndMusicPlayer/media/White Lion - You're All I Need.mp3",
-  "Kenny Rogers And Dolly Parton - Islands In The Stream":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Kenny Rogers and Dolly Parton - Islands In The Stream.mp3",
+  "Kenny Rogers and Dolly Parton - Islands In The Stream":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Kenny Rogers and Dolly Parton - Islands In The Stream.mp3",
   "Linda Ronstad and Aaron Nevile - Don't Know Much":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Linda Ronstad and Aaron Nevile - Don't Know Much.mp3",
   "Pussycat - Mississipi":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Pussycat - Mississipi.mp3",
   "Gina T - Sail Over The Sea":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Gina T - Sail Over The Sea.mp3",
