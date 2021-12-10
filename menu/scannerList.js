@@ -61,7 +61,8 @@ var listMp3 = {
   "Tantowi Yahya/Tantowi Yahya - Pulang Jo":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tantowi Yahya/Tantowi Yahya - Pulang Jo.mp3",
   "Tantowi Yahya/Tantowi Yahya - So Nyanda Guna":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tantowi Yahya/Tantowi Yahya - So Nyanda Guna.mp3",
   "Tantowi Yahya/Tantowi Yahya - The Heart That You Own, Dwighyt Yoakam":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tantowi Yahya/Tantowi Yahya - The Heart that You Own, Dwighyt Yoakam.mp3",
-  "Tantowi Yahya/Tantowi Yahya Dan Mark Alan - Love Is Desire, Mark Alan Thread Gill":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tantowi Yahya/Tantowi Yahya dan Mark Alan - Love is desire, Mark Alan Thread Gill.mp3"
+  "Tantowi Yahya/Tantowi Yahya dan Mark Alan - Love is Desire, Mark Alan Thread Gill":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Tantowi Yahya/Tantowi Yahya dan Mark Alan - Love is desire, Mark Alan Thread Gill.mp3"
+
 }
 
 
