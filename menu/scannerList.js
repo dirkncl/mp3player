@@ -28,7 +28,7 @@ var listMp3 = {
   "Boney M - Consuela Biaz (1981)":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - Consuela Biaz (1981).mp3",
   "Boney M - El Lute (20.08.1979)":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - El Lute (20.08.1979).mp3",
   "Boney M - I'm Born Again":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - I'm Born Again.mp3",
-  "Boney M - Somewhere In The World":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - Somewhere in the World.mp3",
+  "Boney M - Somewhere in the World":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - Somewhere in the World.mp3",
   "Boney M - Going Back West":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boney M - Going Back West.mp3",
   "Boyzone - Nobody Knows":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Boyzone - Nobody Knows.mp3",
   "Bunga Citra Lestari - Karena Ku Cinta Kau":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Bunga Citra Lestari - Karena Ku Cinta Kau.mp3",
