@@ -21,7 +21,7 @@ var listMp3 = {
   "Kenny Rogers And Dolly Parton - Islands In The Stream":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Kenny Rogers and Dolly Parton - Islands In The Stream.mp3",
   "Linda Ronstad and Aaron Nevile - Don't Know Much":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Linda Ronstad and Aaron Nevile - Don't Know Much.mp3",
   "Pussycat - Mississipi":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Pussycat - Mississipi.mp3",
-  "Gina T - Sail Over Seven Seas":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Gina T - Sail Over The Sea.mp3",
+  "Gina T - Sail Over The Sea":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Gina T - Sail Over The Sea.mp3",
   "ABBA - Super Trouper":"https://dirkncl.github.io/RadioAndMusicPlayer/media/ABBA - Super Trouper.mp3",
   "Alan Jackson - Here In The Real World":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Alan Jackson - Here In The Real World.mp3",
   "Beegees - Don't Forget to Remember":"https://dirkncl.github.io/RadioAndMusicPlayer/media/Beegees - Don't Forget to Remember.mp3",
