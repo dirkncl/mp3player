@@ -1,4 +1,5 @@
 var rawList = [
+  "Jingle Bell Rock - Guitar_Instrument_Aip_Ba_Ta",
   "O Holy Night - Guitar_Instrument_Aip_Ba_Ta",
   "Avenged Sevenfold - Dear God(orig)",
   "Avenged Sevenfold - Dear God",
