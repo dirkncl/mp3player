@@ -62,5 +62,5 @@ var rawList = [
   "Tantowi Yahya/Tantowi Yahya - So Nyanda Guna",
   "Tantowi Yahya/Tantowi Yahya - The Heart that You Own, Dwighyt Yoakam",
   "Tantowi Yahya/Tantowi Yahya dan Mark Alan - Love is desire, Mark Alan Thread Gill"
-];window.listMp3 = {};for(var i = 0;i<rawList.length;i++){listMp3[rawList[i]] = ''}
+];window.listMp3 = {};for(var k of rawList){listMp3[k] = ''}
 
